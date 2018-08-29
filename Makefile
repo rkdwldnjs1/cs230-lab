@@ -31,4 +31,5 @@ success:
 
 handin:
 	git tag -a -f submit -m "Submitting Lab"
+	git push
 	git push --tags -f
